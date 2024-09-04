@@ -1,0 +1,34 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color:white;/*ponerle color a la letra*/
+    font-size: 35px;/*determinar el tamaño de la letra*/
+    font-family: system-ui;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    color: black
+    font-size: 25px;
+    font-family: serif;
+    text-align: justify;
+    line-height: 25px; /*determinar la altura*/
+    letter-spacing: 1px;/*aumentao disminuye el espacio entre las letras*/
+    word-spacing: 1px;/*defineespacio entre las palabras*/
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(68, 68, 68);(152,152,152);
+    text-align: center;
+}
+
+
+
+
